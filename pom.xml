@@ -72,7 +72,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.api-todolist.osvaldo.Application</mainClass> <!-- Substitua com a sua classe principal -->
+					<mainClass>com.api_todolist.osvaldo.ToDoList.ToDoListApplication</mainClass> <!-- Substitua com a sua classe principal -->
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
